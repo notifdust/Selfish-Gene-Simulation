@@ -52,7 +52,7 @@ Bash
 
 python main.py
 The console output will show the best genome and its fitness for each generation. Once complete, a graph will appear showing the fitness progression over time.
-
+``` 
 ## Next Steps & Extensions
 Future extensions could involve exploring different evolutionary concepts:
 
