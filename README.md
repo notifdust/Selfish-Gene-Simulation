@@ -56,10 +56,8 @@ The console output will show the best genome and its fitness for each generation
 ## Next Steps & Extensions
 Future extensions could involve exploring different evolutionary concepts:
 
-Different Selection Methods: Implement Roulette Wheel or Rank-Based selection (currently uses Tournament Selection).
-
-Elitism: Preserve the highest-fitness individual across generations to prevent loss of beneficial traits.
-
-Varying Genetic Operators: Implement Two-Point Crossover for greater genetic mixing.
-
-Environmental Change: Implement a dynamic target genome (changing environment) to observe adaptation pressure.
+1. **Different Selection Methods**: Implement Roulette Wheel or Rank-Based selection (currently uses Tournament Selection).
+2. **Elitism**: Preserve the highest-fitness individual across generations to prevent loss of beneficial traits.
+3. **Varying Genetic Operators**: Implement Two-Point Crossover for greater genetic mixing.
+4. **Environmental Change**: Implement a dynamic target genome (changing environment) to observe adaptation pressure.
+5. MOST IMPORTANT: Add **MEMETIC EVOLUTION**..
