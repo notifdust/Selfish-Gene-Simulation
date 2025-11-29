@@ -1,8 +1,8 @@
-# 📖 Summary: "The Selfish Gene" by Richard Dawkins
+# Summary: "The Selfish Gene" by Richard Dawkins
 
 This document summarizes the core arguments and concepts presented in Richard Dawkins' 1976 book, *The Selfish Gene*.
 
-## 🚀 The Central Argument: The Gene as the Unit of Selection
+## The Central Argument: The Gene as the Unit of Selection
 
 The revolutionary argument of *The Selfish Gene* is that **the fundamental unit of selection in evolution is not the species, the group, or even the individual organism. It is the gene.**
 
@@ -12,7 +12,7 @@ What we perceive as life, competition, and cooperation is the external manifesta
 
 ---
 
-## 🧬 1. The "Gene's-Eye View"
+## 1. The "Gene's-Eye View"
 
 The book asks the reader to perform a radical shift in perspective. Instead of asking, "Why is this behavior good for the organism?" you must ask, "How does this behavior help the *gene* that causes it to get copied?"
 
@@ -21,7 +21,7 @@ The book asks the reader to perform a radical shift in perspective. Instead of a
 
 ---
 
-## 🤝 2. Explaining Altruism (The Great Paradox)
+## 2. Explaining Altruism (The Great Paradox)
 
 If genes are "selfish," why does altruism exist in nature? Dawkins provides two primary mechanisms:
 
@@ -37,7 +37,7 @@ If genes are "selfish," why does altruism exist in nature? Dawkins provides two 
 
 ---
 
-## ⚔️ 3. Evolutionarily Stable Strategy (ESS)
+## 3. Evolutionarily Stable Strategy (ESS)
 
 An **ESS** is a strategy (a pre-programmed behavior) that, if adopted by most members of a population, cannot be "invaded" or beaten by any other mutant strategy.
 
@@ -51,7 +51,7 @@ An **ESS** is a strategy (a pre-programmed behavior) that, if adopted by most me
 
 ---
 
-## 👨‍👩‍👧 4. Family Conflicts (The Gene's-Eye View in Action)
+## 4. Family Conflicts (The Gene's-Eye View in Action)
 
 The "selfish" gene concept explains conflicts *within* families.
 
@@ -60,7 +60,7 @@ The "selfish" gene concept explains conflicts *within* families.
 
 ---
 
-## 💡 5. Memetics: The New Replicator (Chapter 11)
+## 5. Memetics: The New Replicator (Chapter 11)
 
 This is one of the book's most famous and radical ideas. Dawkins proposes that genes are not the *only* replicators on Earth. A **new replicator** has emerged: the **Meme**.
 
